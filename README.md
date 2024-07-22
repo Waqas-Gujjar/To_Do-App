@@ -20,7 +20,7 @@ Run the application using the command:
 app.py
 ```
 ## Example Interaction
-```
+```mathematica
 ----WELCOME TO THE TASK MANAGEMENT APP----
 Enter how many tasks you want to add: 3
 Enter task 1: Task 1
