@@ -20,6 +20,7 @@ Run the application using the command:
 app.py
 ```
 ## Example Interaction
+```
 ----WELCOME TO THE TASK MANAGEMENT APP----
 Enter how many tasks you want to add: 3
 Enter task 1: Task 1
@@ -46,6 +47,7 @@ Enter 1 to Add
 4 to View
 5 to Exit: 5
 Closing the program....
+```
 
 ### Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any bugs or suggestions.
